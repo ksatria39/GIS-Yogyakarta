@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "ibukota",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "Keterangan": "Kota Yogyakarta", "Koor_X": 430664.3591, "Koor_Y": 9137898.2748000007 }, "geometry": { "type": "Point", "coordinates": [ 110.371132101306188, -7.798755711826794 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "Keterangan": "Sleman", "Koor_X": 428334.4336, "Koor_Y": 9148588.6534000002 }, "geometry": { "type": "Point", "coordinates": [ 110.350149111783566, -7.702028511708888 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "Keterangan": "Gunungkidul", "Koor_X": 455506.5589, "Koor_Y": 9120262.1086999997 }, "geometry": { "type": "Point", "coordinates": [ 110.596289188854328, -7.958556272932092 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "Keterangan": "Bantul", "Koor_X": 425824.2077, "Koor_Y": 9128350.9856000002 }, "geometry": { "type": "Point", "coordinates": [ 110.327095616551901, -7.88504341119072 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "Keterangan": "Kulonprogo", "Koor_X": 407381.7203, "Koor_Y": 9131460.1766999997 }, "geometry": { "type": "Point", "coordinates": [ 110.159857653719854, -7.856619746321141 ] } }
+]
+}
